@@ -1,177 +1,88 @@
 {
     "games": [
         {
-            "name": "loki1",
+            "name": "Cloud Services",
             "questions": [
                 {
-                    "question": "",
+                    "question": "ec2 Where?",
                     "answers": [
                         {
-                            "answer": "",
+                            "answer": "Google",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "AWS",
                             "correct": true
                         },
                         {
-                            "answer": "",
+                            "answer": "Azure",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "IBM",
                             "correct": false
                         }
                     ]
                 },
                 {
-                    "question": "",
+                    "question": "GreenGrass Where?",
                     "answers": [
                         {
-                            "answer": "",
+                            "answer": "Google",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "AWS",
                             "correct": true
                         },
                         {
-                            "answer": "",
+                            "answer": "Azure",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "IBM",
                             "correct": false
                         }
                     ]
                 },
                 {
-                    "question": "",
+                    "question": "DynamoDB Where?",
                     "answers": [
                         {
-                            "answer": "",
+                            "answer": "Google",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "AWS",
                             "correct": true
                         },
                         {
-                            "answer": "",
+                            "answer": "Azure",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "IBM",
                             "correct": false
                         }
                     ]
                 },
                 {
-                    "question": "",
+                    "question": "AppInsisght where?",
                     "answers": [
                         {
-                            "answer": "",
+                            "answer": "Google",
                             "correct": false
                         },
                         {
-                            "answer": "",
+                            "answer": "Azure",
                             "correct": true
                         },
                         {
-                            "answer": "",
+                            "answer": "IBM",
                             "correct": false
                         },
                         {
-                            "answer": "",
-                            "correct": false
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "loki2",
-            "questions": [
-                {
-                    "question": "",
-                    "answers": [
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": true
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "",
-                    "answers": [
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": true
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "",
-                    "answers": [
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": true
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "",
-                    "answers": [
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
-                            "correct": true
-                        },
-                        {
-                            "answer": "",
-                            "correct": false
-                        },
-                        {
-                            "answer": "",
+                            "answer": "AWS",
                             "correct": false
                         }
                     ]
