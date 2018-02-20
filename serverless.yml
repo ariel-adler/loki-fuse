@@ -20,7 +20,7 @@ package:
 
 functions:
   questions:
-    handler: http
+    handler: questions
     events:
       - http: questions
 
