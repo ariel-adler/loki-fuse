@@ -1,0 +1,182 @@
+{
+    "games": [
+        {
+            "name": "loki1",
+            "questions": [
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "loki2",
+            "questions": [
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": true
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        },
+                        {
+                            "answer": "",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
