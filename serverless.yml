@@ -3,9 +3,9 @@ service: loki-fuse
 provider:
   name: google
   runtime: nodejs
-  project: my-project
+  project: loki-fuse
   # the path to the credentials file needs to be absolute
-  credentials: ~/.gcloud/keyfile.json
+  credentials: ~/.gcloud/kLoki-dbdb87d18a71.json
 
 plugins:
   - serverless-google-cloudfunctions
