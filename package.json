@@ -9,6 +9,8 @@
   "author": "serverless.com",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/storage": "^1.6.0",
+    "firebase": "^4.10.0",
     "firebase-admin": "^5.9.0",
     "serverless-google-cloudfunctions": "^1.1.0"
   }
