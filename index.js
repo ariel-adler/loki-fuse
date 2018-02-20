@@ -40,7 +40,7 @@ exports.postAnswer = (request, response) => {
   console.log(json);
   var kind = 'UserAnswer';
 // The name/ID for the new entity
-var name = 'userAnswer1';
+var name = "userAnswer"+json.id + "_" + json.question;
 // The Cloud Datastore key for the new entity
 var userAnswerKey = datastore.key([kind, name]);
 var userAnswer = {
