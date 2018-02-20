@@ -24,6 +24,11 @@ functions:
     events:
       - http: questions
 
+  second:
+    handler: postAnswer
+    events:
+      - http: answer
+
   # NOTE: the following uses an "event" event (pubSub event in this case).
   # Please create the corresponding resources in the Google Cloud
   # before deploying this service through Serverless
