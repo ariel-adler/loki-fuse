@@ -22,7 +22,7 @@ functions:
   first:
     handler: http
     events:
-      - http: path
+      - http: questions
 
   # NOTE: the following uses an "event" event (pubSub event in this case).
   # Please create the corresponding resources in the Google Cloud
